@@ -26,4 +26,7 @@ To lint:
 ```bash
 meteor npm run lint
 ```
-
+terminal mongo
+```
+mongo ds143608.mlab.com:43608/liguang_meteor -u liguangmeteor -p liguangmeteor
+```
